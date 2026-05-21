@@ -1,0 +1,13 @@
+﻿File   : FileSorter_v1.0.exe
+Built  : 2026-05-21 12:00:17
+Size   : 10364491 bytes
+SHA256 : AB9A6871453A2527720F07E74D6988C03C363A3F3763D44D4F0DD49C3305233C
+
+Build env:
+  Python      : 3.12.0
+  PyInstaller : 6.16.0
+  Platform    : Windows 11 (10.0.26200)
+  Options     : --onefile --windowed
+
+Source:
+  main.py (rules.json save path: sys.executable based for frozen mode)
